@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
+Hello my name is Devin Spitalny. I'm from Mechanicville,NY. I attended Tecsmart early college program in the morning which was a school for high scholar high school kids to get a start at college a little bit early. I also attended Mechanicville high in the afternoon. During high school I had a busy schedule which consisted school, sports, and work. The sports I played during high school consisted of cross country during the fall, Indoor Track and Field in the winter, and Outdoor Track and field in the spring. During my high school sports career I really excelled in the track and field event called shot put winning the outdoor Track and Field state championship throwing a distance 61,06 FT. Lastly in my day I worked at a pizza shop that helped me worked hard. I currently attend Allegheny college. By attending this college I plan on graduating with an Computer Science major and a Environmental Science minor. My hobbies consist of competing for my college's football team as well as making music. On my free time when I'm not studying for school or not playing football I'm usually an DJ for parties like school dances, weddings and etc.
 
-My name is Inigo Montoya. I have the following qualities:
+I'm very interested in computer science for many reasons because it has an big effect on my life. First of computer science statistically has more jobs open than the amount of people quailified really excites me . But also my uncle is in the computer science field and it just inspired me to follow his path. But also computer software has impacted my life because this summer it helped me get my first big internship/job. By learning basic computer software it help me land a big job this summer at a million dollar company called Acutec to work in the IT. So it computer software connects with my life because it is the future for me. Meaning the job field of computer technology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My future goals consist of graduating Allegheny college with my Computer Science degree. Than after that getting a stable job. After getting a stable job I want to be able to start saving money to start my own company of mine involving the computer science field. The whole goal of mine of making my whole company starts with being able to teach the whole world of my skills using the computer technology field and share it with the rest of my world. SO if I get ask how does computer software effect your life? I would answer by saying it is my present that leads to my future by having a job and knowledge on a subject many people that lack the skills and will need for the future.
