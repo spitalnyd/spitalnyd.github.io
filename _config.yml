@@ -41,20 +41,20 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name:
-  email: "youremail@domain.com"
+  email: "spitanyd@allegheny.edu"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  github: spitanyd    # eg. daattali
+  twitter: alleghenyspitalnyd81   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
+  snapchat: chunky81  # eg. chunky81
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  telephone: +5188946531   # eg. 5188946531
 
 # Select which links to show in the footer
 footer-links-active:
@@ -77,7 +77,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 

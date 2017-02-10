@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle:
 ---
 Hello my name is Devin Spitalny. I'm from Mechanicville,NY. I attended Tecsmart early college program in the morning which was a school for high scholar high school kids to get a start at college a little bit early. I also attended Mechanicville high in the afternoon. During high school I had a busy schedule which consisted school, sports, and work. The sports I played during high school consisted of cross country during the fall, Indoor Track and Field in the winter, and Outdoor Track and field in the spring. During my high school sports career I really excelled in the track and field event called shot put winning the outdoor Track and Field state championship throwing a distance 61,06 FT. Lastly in my day I worked at a pizza shop that helped me worked hard. I currently attend Allegheny college. By attending this college I plan on graduating with an Computer Science major and a Environmental Science minor. My hobbies consist of competing for my college's football team as well as making music. On my free time when I'm not studying for school or not playing football I'm usually an DJ for parties like school dances, weddings and etc.
 
