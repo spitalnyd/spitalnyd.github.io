@@ -39,9 +39,15 @@ avatar: "/img/avatar-icon.png"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
+<<<<<<< HEAD
 author:
   name:
   email: "spitanyd@allegheny.edu"
+=======
+author: 
+  name: Devin Spitalny
+  email: "youremail@domain.com"
+>>>>>>> 006d61842f36c94d8b44893dfe0e90e63be2010a
   facebook: yourname  # eg. daattali
   github: spitanyd    # eg. daattali
   twitter: alleghenyspitalnyd81   # eg. daattali
