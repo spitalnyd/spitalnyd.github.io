@@ -21,7 +21,7 @@ from ancient Greece to current time technology has effected Olympic standard.
 
   Technology was really poor when the games was first invented. Meaning unlike today
 you cant see every event get televise on TV you would have to be be their. Also
-the stadiums during the first Olympics to now werent really the same because back
+the stadiums during the first Olympics to now weren't really the same because back
 than they did almost every event in the same spot whereas today each event pretty
 much has their own stadium where fans can go watch their favorite athletes compete.
 It cost about 3 billion dollars for the current Olympics host because they have to
