@@ -1,15 +1,18 @@
  ---
 layout: post
 title: Is Google Help Really Helpful?
-bigimg: /img/help.jpg
-image:
+bigimg: /home/s/spitalnyd/Downloads/help.jpg
+
 tags: [google, Drastic]
 ---
 
 
 ### TL:DR Negatives Of Google Help
 
-  Google Help is a app that is use
+  Google Help is a appilcation that can be found online, on a google account, or device.
+The whole point of google help is when you have a problem for example like with your
+android you can go to google help to fix the problem or to help you understand how
+the products works.
 
 
 
