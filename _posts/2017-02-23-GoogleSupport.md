@@ -1,13 +1,15 @@
  ---
 layout: post
-title: How Technology Changed the Olmpics
-bigimg: /img/Olympics.jpg
+title: Is Google Help Really Helpful?
+bigimg: /img/help.jpg
 image:
-tags: [sports, exciting-stuff]
+tags: [google, Drastic]
 ---
 
 
-### TL:DR The Olympics Changed Throughout History
+### TL:DR Negatives Of Google Help
+
+  Google Help is a app that is use
 
 
 
@@ -16,5 +18,4 @@ tags: [sports, exciting-stuff]
 
 
 
-
-<a title="Olympic rings" href="https://flickr.com/photos/limck/2832681421">Olympic rings</a> flickr photo by <a href="https://flickr.com/people/limck">Lim CK</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a> </small>
+<a title="HELP" href="https://flickr.com/photos/49889874@N05/5645164344">HELP</a> flickr photo by <a href="https://flickr.com/people/49889874@N05">marc falardeau</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small>
