@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Does Google Supoort really help You if you have an Problem
+title: How Technology Changed the Olmpics
+subtitle: Sport History
 bigimg: /img/Olympics.jpg
-image:
-tags: [google, drastic]
+tags: [sports, exciting stuff]
 ---
 
 
