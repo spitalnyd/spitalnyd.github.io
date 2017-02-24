@@ -1,7 +1,8 @@
- ---
+---
 layout: post
 title: Is Google Help Really Helpful?
-bigimg: /img/help.jpg 
+subtitle:
+bigimg: /img/help.jpg
 tags: [google, Drastic]
 ---
 
