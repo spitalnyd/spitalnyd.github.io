@@ -1,9 +1,9 @@
- ---
+---
 layout: post
 title: How Technology Changed the Olmpics
+subtitle: Sport History
 bigimg: /img/Olympics.jpg
-image: 
-tags: [sports, exciting-stuff]
+tags: [sports, exciting stuff]
 ---
 
 
@@ -21,7 +21,7 @@ from ancient Greece to current time technology has effected Olympic standard.
 
   Technology was really poor when the games was first invented. Meaning unlike today
 you cant see every event get televise on TV you would have to be be their. Also
-the stadiums during the first Olympics to now werent really the same because back
+the stadiums during the first Olympics to now weren't really the same because back
 than they did almost every event in the same spot whereas today each event pretty
 much has their own stadium where fans can go watch their favorite athletes compete.
 It cost about 3 billion dollars for the current Olympics host because they have to
@@ -56,11 +56,3 @@ Through the process that went from an event in one country to the biggest worldw
 sporting event in the world where a lot of fans and athletes all over the world come
 to watch or compete in the historic Olympic games. As the Olympics continues in the
 future it will only get more technically sound and improved with the impact of technology.
-
-
-
-
-
-
-
-<a title="Olympic rings" href="https://flickr.com/photos/limck/2832681421">Olympic rings</a> flickr photo by <a href="https://flickr.com/people/limck">Lim CK</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a> </small>
