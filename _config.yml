@@ -24,6 +24,7 @@ description: A about the the history of football
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Presentations.md: " presentations.md"
   
 
 
