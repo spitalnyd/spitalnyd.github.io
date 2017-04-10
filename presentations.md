@@ -4,4 +4,4 @@ title: Presentations
 subtitle:
 ---
 
-[Piracy](/home/s/spitalnyd/fs102S2017/spitalnyd-Piracy-presentation/README.md)4-10-2017
+[Piracy](https://rawgit.com/spitalnyd/spitalnyd-piracy101-presentation/master/Spitalnyd-Piracy.html)4-10-2017
