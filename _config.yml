@@ -14,17 +14,17 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Devin Spitalny Website
+title: The DS Report
 
 # Short description of your site
-description: A about the the history of football
+description: Blogs,Articles,and Facts
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Presentations: "presentations"
+  Presentations: "Presentations"
 
 
 
