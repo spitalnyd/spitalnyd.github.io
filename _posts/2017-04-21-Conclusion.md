@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advantages and Disadvantages of GitHub
-bigimg: /img/hub.jpg
+bigimg: /img/hubby.jpg
 image: /img/git.jpg
 tags: [Shocking, Drastic]
 ---
