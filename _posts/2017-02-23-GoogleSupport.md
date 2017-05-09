@@ -3,7 +3,7 @@ layout: post
 title: Is Google Help Really Helpful?
 subtitle: The Surprising Facts About Google Help
 bigimg: /img/help.jpg
-image: /img/stop.jpg
+image: /img/google.jpg
 tags: [google, Drastic]
 ---
 
